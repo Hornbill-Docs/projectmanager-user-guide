@@ -1,0 +1,29 @@
+{
+  "docId": "projectmanager-user-guide",
+  "title": "Project Manager User Guide",
+  "description": "A user guide for the Hornbill Project Manager app",
+  "publicSource": "https://github.com/Hornbill-Docs/projectmanager-user-guide",
+  "productFamily": "hdocs",
+  "version": "0.0.0",
+  "audience": [
+    "public"
+  ],
+  "languages": [
+    "en"
+  ],
+  "navigation": {
+    "items": [
+      {
+        "text": "Introduction",
+        "expand": true,
+        "items": [
+          {
+            "text": "Welcome",
+            "link": "projectmanager-user-guide/index"
+          }
+        ]
+      }
+    ]
+  },
+  "tags": []
+}
