@@ -4,7 +4,7 @@
   "description": "A user guide for the Hornbill Project Manager app",
   "publicSource": "https://github.com/Hornbill-Docs/projectmanager-user-guide",
   "productFamily": "hdocs",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "audience": [
     "public"
   ],
@@ -42,6 +42,10 @@
             "text":"Projects",
             "items": [
               {
+                "text": "Project Overview",
+                "link": "projectmanager-user-guide/my-projects/projects/overview"
+              },
+              {
                 "text": "Details",
                 "link": "projectmanager-user-guide/my-projects/projects/details"
               },
@@ -60,6 +64,10 @@
               {
                 "text": "Stakeholders",
                 "link": "projectmanager-user-guide/my-projects/projects/stakeholders"
+              },
+              {
+                "text": "Activity and Audit Log",
+                "link": "projectmanager-user-guide/my-projects/projects/activity-and-audit-log"
               }
             ]
           }
