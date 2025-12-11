@@ -4,7 +4,7 @@
   "description": "A user guide for the Hornbill Project Manager app",
   "publicSource": "https://github.com/Hornbill-Docs/projectmanager-user-guide",
   "productFamily": "hdocs",
-  "version": "0.16.0",
+  "version": "1.0.0",
   "audience": [
     "public"
   ],
@@ -114,6 +114,10 @@
               {
                 "text": "Activity and Audit Log",
                 "link": "projectmanager-user-guide/my-projects/projects/activity-and-audit-log"
+              },
+              {
+                "text": "Project Settings",
+                "link": "projectmanager-user-guide/my-projects/projects/settings"
               }
             ]
           }
