@@ -1,7 +1,3 @@
----
-url: https://wiki.hornbill.com/index.php?title=Project_Portfolio
----
-
 # Project Portfolio
 The Project Portfolio provides visibility, access and supporting data relating to projects where you are either a stakeholder, or you have been assigned the **Project Portfolio Manager** role. The views include a list of Projects with high level details and progress, overviews of current portfolio tasks and risks as well as groupings based on Tags or Favorite flags . Projects where you are not the Project Manager, a Stakeholder or if you do not have the project portfolio manager role, will not be available to you from this view. Raise new projects by using the red **+** icon in the bottom right hand corner of the screen. 
 

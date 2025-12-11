@@ -1,6 +1,3 @@
----
-url: https://wiki.hornbill.com/index.php?title=Project_Resources
----
 # Project Resources
 View and Analyze all project resource contributions
 

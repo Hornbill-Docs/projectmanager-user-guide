@@ -1,7 +1,3 @@
----
-url: https://wiki.hornbill.com/index.php?title=program
----
-
 # Programs
 A program is a set of related projects and activities, managed in a coordinated fashion and under a structure that allows for the delivery of business benefits. Each program is divided into these three areas: 
  * **Program Details** 

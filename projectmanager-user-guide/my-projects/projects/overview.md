@@ -1,6 +1,3 @@
----
-url: https://wiki.hornbill.com/index.php?title=Project
----
 # Project
 A project is a set of related activities, managed in a coordinated fashion and under a structure that allows for the delivery of business benefits. Each project is divided into two central sections with an additional settings area that is reserved for the project manager and is accessed from the project icon on the right hand side: **Main Tabs** **Small Tabs** **Project Settings** 
 

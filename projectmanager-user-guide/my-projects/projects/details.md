@@ -1,7 +1,3 @@
----
-url: https://wiki.hornbill.com/index.php?title=Project_Details
----
-
 # Project Details
 A summary of all the Project details. Use the **Pencil** icon to edit details in any of the details sections.
 

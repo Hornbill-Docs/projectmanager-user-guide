@@ -1,7 +1,3 @@
----
-url: https://wiki.hornbill.com/index.php?title=Project_Budgets
----
-
 # Project Budgets
 Project funding can come from one or multiple sources. Recording this information can be an important consideration. Associate individual budget lines to the project.
 

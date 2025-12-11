@@ -1,7 +1,3 @@
----
-url: https://wiki.hornbill.com/index.php?title=Project_Stakeholders
----
-
 # Project Stakeholders
 Associate the project stakeholders and their roles in the project. Associating users to the project will enable them to view the project, and be available to have project tasks assigned to them. 
 
