@@ -1,7 +1,3 @@
----
-url: https://wiki.hornbill.com/index.php?title=Program_Management
----
-
 # Portfolio Overview
 The Portfolio provides visibility, access and supporting data relating to programs for your organization. The views include a list of Programs with high level details and progress and overviews of current program projects. Raise new programs by using the red **+** icon in the bottom right hand corner of the screen. 
 
