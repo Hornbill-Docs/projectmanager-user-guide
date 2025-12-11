@@ -1,39 +1,59 @@
-# Project
-A project is a set of related activities, managed in a coordinated fashion and under a structure that allows for the delivery of business benefits. Each project is divided into two central sections with an additional settings area that is reserved for the project manager and is accessed from the project icon on the right hand side: **Main Tabs** **Small Tabs** **Project Settings** 
+# Project Overview
+The Project Overview gives a stakeholder a quick view of the current state of the Project. At a glance, you are able to see the milestones and some key Project information. **Heads Up Display** \- If you are running a business process against your project, the heads up display lets you know where you are in the process. **Project Milestones** \- Key events over the course of the project's lifecycle. **Project Indicators** \- Widgets containing key information regarding overall project progress and RAG status. 
 
-## Main Tabs
+## Heads Up Display
+A Heads Up Display represents a business process that is running against the project. 
 
-### Available Tabs
-
-* **Project Overview** \- The Project Overview Tab gives a stakeholder a quick view of the current state of the Project. At a glance, you are able to see the milestones and some key Project information.
-* **Details** \- The Project Details provides information about the project's purpose and scope. View this information to know more about the goals of the project.
-* **Scope Changes** \- Some projects can change dramatically in scope over the course of their life cycle. Record individual scope changes to the project and how it impacts the overall cost and delivery.
-* **Tasks** \- Tasks are a key aspect of all projects. Plan, schedule and assign tasks that are required to fulfill your project.
-* **Resources** \- View and Analyze Project Resources
-* **Relationships** \- Associate related entities to the project and define how they are related. It is possible to relate Change and Release Requests, Services and Configuration Items if the Service Manager Application is also installed on your instance.
-* **Budgets** \- Understanding and managing the budget sources of a project can be complicated. Associate multiple budget lines to the project if it is funded from multiple sources.
-* **Costs** \- Understanding and managing the costs associated with a project is an important consideration. Associate estimated and actual costs to the project.
-* **RAID (Risks, Assumptions, Issues, Dependencies)** \- Add and manage project Risks, Assumptions, Issues and Dependancies
-* **RAG Tolerances** \- Knowing how you are performing in different aspects of your project is vital. Introduce and manage RAG tolerances for different areas of your project.
+* A business process can consist of multiple stages and can be configured in the Hornbill Admin Tool.
+* Business processes can be applied to project templates which can in turn be applied to new projects.
+* The project business process can be manually progressed using the green **Continue Business Process** button.
 
   
-## Small Tabs
+## Project Milestones
+Milestones are key points in a project, they can be used to indicate if the project work is on track to meet the Completion date for the Project. 
 
-* **Timeline** \- Collaborate with other project stakeholders.
-* **Documents** \- The Document option is part of the Document Manager Plug-in to Project Manager. See Project Manager Plug-ins.
-* **Attachments** \- Upload attachments relevant to your project.
-* **Links** \- Add clickable links (URL's) to your project.
-* **Stakeholders** \- Manage the members of the project, assign roles and give them access to your projects and have them available to be assigned project tasks.
-* **Tags** \- If you have the Project Administrator role, you can define the tags that are available in Hornbill Project Manager. Tags are a great way of adding multiple categorisations to existing projects.
-* **Audit History** \- The audit history records all adds, edits or deletions for project entities such as milestones, tasks, risks, costs and stakeholders.
+* A project can have multiple Milestones, each with their own due dates.
+* Project Tasks can be created and linked as **Counting towards** Milestones. As **linked** tasks are completed, the Milestones percentage progress will automatically be increased.
 
-  
-## Project Settings
+### Adding Milestones
 
-The project manager of each project has access to the settings tab which allows them to control different aspects of the project.
+Use the **+** Icon to add a new project milestone
 
-* **Project Logic** \- Controls for project logic such as which RAG Tolerance Matrix to use or whether or not to automatically audit daily project costs and risks.
-* **Reports** \- Pre defined project reports (more to follow)
-* **Time Recording** \- Overall time recorded against the project along with more specific settings. Requires access to Hornbill Timesheet Manager.
-* **Tabs** \- Enables/disables tabs/functionality on a project.
-* **Role Permissions** \- Configure specific permissions against project roles, like allowing all project members to view costs but not add or update them.
+* **Name** \- Display name for the Milestone
+* **Description** \- Details of the Milestone
+* **Due Date** \- The Date the Milestone should be completed
+* **Progress** \- The percentage progress of the Milestone
+* **Status**
+
+* **To Do** \- Not Started
+* **In Progress** \- Work towards the Milestone has started but is not yet complete
+* **Completed** \- The Milestone has been Achieved
+
+### Edit Milestone
+
+Click on the edit icon for a Milestone to edit it's Percentage Progress, change it's Status or due date and if required delete it.
+
+### Milestone List
+
+Change the Display order of the Milestones on the **Overview** by using the **Arrows** to move the Milestones up and down the list, this is purely for appearance. 
+
+### Notification
+
+The **Project Manager** for the project will see an extra option when creating or editing a milestone, this is an option to receive a **Hornbill** notification when the milestone is marked as **completed**.
+
+* By default this is set to **off**
+* Project Manager Milestone completion notifications can also be set per milestone in project templates
+* Manage the default value for this notification in the settings using the following app setting: **app.com.hornbill.projectmanager.milestones.notification.notifyProjectManagerOnCompletion**
+
+### Administration
+
+When Milestones are created, edited or completed all actions are audited and recorded in the **Audit History** tab on each Milestone view, as well as against the overall project Audit History.  
+
+## Project Indicators
+
+### Introduction
+
+Project Indicators provide a visual status update at a glance.
+
+* Project RAG Status - The overall project RAG Status. The Harry Hornbill image can be turned on/off using the application setting **app.com.hornbill.projectmanager.project.projectRagStatus.harryHornbill**.
+* Project Progress - The overall project progress in terms of percentage (0-100).
