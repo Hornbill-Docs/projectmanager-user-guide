@@ -2,7 +2,7 @@
 url: https://wiki.hornbill.com/index.php?title=Project_Resourcing
 ---
 # Project Resourcing
-Introduction Project Resourcing allows those users that are allocated the **Project Portfolio Manager** role to view the workloads and define the capacity of both individual stakeholders and project teams.
+Project Resourcing allows those users that are allocated the **Project Portfolio Manager** role to view the workloads and define the capacity of both individual stakeholders and project teams.
 
 ## Stakeholders
 

@@ -4,7 +4,7 @@
   "description": "A user guide for the Hornbill Project Manager app",
   "publicSource": "https://github.com/Hornbill-Docs/projectmanager-user-guide",
   "productFamily": "hdocs",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "audience": [
     "public"
   ],
@@ -41,6 +41,10 @@
           {
             "text":"Projects",
             "items": [
+              {
+                "text": "Details",
+                "link": "projectmanager-user-guide/my-projects/projects/details"
+              },
               {
                 "text": "Tasks",
                 "link": "projectmanager-user-guide/my-projects/projects/tasks"

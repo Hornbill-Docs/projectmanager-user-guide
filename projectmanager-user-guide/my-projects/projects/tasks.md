@@ -2,7 +2,7 @@
 url: https://wiki.hornbill.com/index.php?title=Project_Tasks
 ---
 # Project Tasks
-Introduction Both Tasks and Summary Tasks are available for each project within Hornbill Project Manager. Tasks represent the individual units of work whilst summary tasks allow tasks to be grouped together in phases of work. Within any project, it is always desirable to be able to visualize the tasks and the included phases of work. Hornbill Project Manager achieves this by providing two default gantt charts for tasks/summary tasks. 
+Both Tasks and Summary Tasks are available for each project within Hornbill Project Manager. Tasks represent the individual units of work whilst summary tasks allow tasks to be grouped together in phases of work. Within any project, it is always desirable to be able to visualize the tasks and the included phases of work. Hornbill Project Manager achieves this by providing two default gantt charts for tasks/summary tasks. 
 
 ## Tasks
 
