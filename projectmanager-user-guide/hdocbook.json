@@ -4,7 +4,7 @@
   "description": "A user guide for the Hornbill Project Manager app",
   "publicSource": "https://github.com/Hornbill-Docs/projectmanager-user-guide",
   "productFamily": "hdocs",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "audience": [
     "public"
   ],
@@ -65,6 +65,27 @@
               {
                 "text": "Costs",
                 "link": "projectmanager-user-guide/my-projects/projects/costs"
+              },
+              {
+                "text": "RAID",
+                "items": [
+                  {
+                    "text": "Risks",
+                    "link": "projectmanager-user-guide/my-projects/projects/risks"
+                  },
+                  {
+                    "text": "Assumptions",
+                    "link": "projectmanager-user-guide/my-projects/projects/assumptions"
+                  },
+                  {
+                    "text": "Issues",
+                    "link": "projectmanager-user-guide/my-projects/projects/issues"
+                  },
+                  {
+                    "text": "Dependencies",
+                    "link": "projectmanager-user-guide/my-projects/projects/dependencies"
+                  }
+                ]
               },
               {
                 "text": "RAG Tolerances",
