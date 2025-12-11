@@ -1,8 +1,4 @@
----
-url: https://wiki.hornbill.com/index.php?title=Project_Activity_Streams
-url: https://wiki.hornbill.com/index.php?title=Project_Audit_History
----
-
+# Project Activity and Audit Log
 
 ## Project Activity Streams
 The activity stream is a notification mechanism and conversation space for the project. It lists project relevant discussions for the project stakeholders, and allows them to collaborate on it's content. Project Stakeholders can use the   **\+ Follow** icon to receive updates from the activity stream on the project to their **News Feed** 
