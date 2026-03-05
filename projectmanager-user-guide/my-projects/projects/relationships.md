@@ -30,9 +30,9 @@ Edit or delete a entity from the Project by selecting the entity name, from the 
 * Change the relationship type and select **Update** to apply the change
 * Remove the entity and it's relationship to the project using the **Trash Can** icon
 
-## Raise Projects From Service Manager Business Processes
+## Raise projects from a Service Manager workflow
 
-Use the Hornbill Integration Bridge (iBridge) in the business processes supporting requests in Service Manager to automate the creation of new Projects in Project Manager. Once a new Project has been created in the Service Manager business process linked to a request, the request the process is running against will automatically be related to the new project in the Project Relationships list. Read more about the Project Manager iBridge options from the link in the related articles section above.
+Use the Hornbill Integration Bridge (iBridge) in the workflow supporting requests in Service Manager to automate the creation of new Projects in Project Manager. Once a new Project has been created in the Service Manager workflow linked to a request, the request the process is running against will automatically be related to the new project in the Project Relationships list. Read more about the Project Manager iBridge options from the link in the related articles section above.
 
 ## Administration
 
