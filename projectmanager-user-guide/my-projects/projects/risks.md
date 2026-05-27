@@ -13,7 +13,7 @@ Use the **+** icon to add a new risk to the project
 
 The weightings allow you to calculate the overall risk for the project based on the number of risks and their individually set weightings based on the **Risk Matrix** rules.
 
-* **Status**: Assign the risk a status to reflect it's current state.
+* **Status**: Assign the risk a status to reflect its current state.
 
 Use the **Add** button to add the project risk
 
@@ -33,7 +33,7 @@ Open an existing risk by clicking on the risk from the risk list view
 
 View project risks, by their name, status, weighting and who created them
 
-* Click on a risk to edit it's properties or edit their **Impact** and or **Probability** directly from the list
+* Click on a risk to edit its properties or edit their **Impact** and or **Probability** directly from the list
 * Search the project risks from the **Search** field
 
 * The search will look for a match with the risk name
@@ -44,7 +44,7 @@ View project risks, by their name, status, weighting and who created them
   
 ## Chart View
 
-View the project risks in chart form, with each risk represented on the chart by it's weighting
+View the project risks in chart form, with each risk represented on the chart by its weighting
 
 * Biggest Project Risk: The risk with the biggest weighting will be displayed
 * Overall Project Risk: This will represent the % project risk, calculated from the total number of risks and their weightings

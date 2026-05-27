@@ -9,7 +9,7 @@ Drag and Drop one or multiple attachments, or use the file explorer to locate th
 
 * Optionally provide each attachment with a short description to explain it's purpose or content
 * Select Upload to add the attachments to the Project
-* Select Remove next to the attachments to to remove them before uploading any remaining attachments
+* Select Remove next to the attachments to remove them before uploading any remaining attachments
 
 ### Project Attachments
 

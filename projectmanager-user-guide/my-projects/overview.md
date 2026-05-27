@@ -39,11 +39,11 @@ Displays the status of the entire project
 
 * **Sub Status**
 
-Displays the sub status of the the entire project
+Displays the sub status of the entire project
 
 * **RAG Status**
 
-Displays the RAG status of the the entire project
+Displays the RAG status of the entire project
 
 * **Scheduled Start date**
 
@@ -199,7 +199,7 @@ Filter on the following Risk Statuses - Confirmed, Mitigated, No Impact, Potenti
 
 * Weighting levels
 
-Filter the list of risks based on the following weighting levels - less then or equal to 33%, greater than 33% and less than 66%, and greater than 66%.
+Filter the list of risks based on the following weighting levels - less than or equal to 33%, greater than 33% and less than 66%, and greater than 66%.
 
 * Project Status
 

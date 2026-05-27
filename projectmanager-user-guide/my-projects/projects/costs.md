@@ -1,5 +1,5 @@
 # Project Costs
-Understanding and managing the costs associated with with a project is an important consideration. Associate estimated and actual costs to the project Review project costs by cost types and percentile splits. 
+Understanding and managing the costs associated with a project is an important consideration. Associate estimated and actual costs to the project Review project costs by cost types and percentile splits. 
 
 ## Adding costs to a project
 
@@ -38,7 +38,7 @@ View all project costs in list view, see current running costs against the proje
 * **Actual Cost**: Current Actual Cost
 * **Actual Quantity**: Current Actual Quantity
 * **Total Cost**: The actual cost multiplied by the actual quantity
-* Click on a project cost to review, or edit it's properties.
+* Click on a project cost to review, or edit its properties.
 * Use the search option to find project costs by their description
 * Use the Cost type option to filter the costs by a specific project cost type
 
@@ -63,7 +63,7 @@ A series of chart metrics are provided based on project costs
   
 ## Administration
 
-When project costs are added, edited or removed this is audited and written to the audit trail tab of the overall project as well as against the audit tab on each Cost, where it can reviewed.
+When project costs are added, edited or removed this is audited and written to the audit trail tab of the overall project as well as against the audit tab on each Cost, where it can be reviewed.
 
 Manage the available Project Cost Types in the admin console and simple list
 

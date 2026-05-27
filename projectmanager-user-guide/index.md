@@ -40,4 +40,4 @@ With Board Manager installed, Project Stakeholders can place and move projects o
 
 * **Custom Buttons**
 
-Add custom buttons to your project forms. Use these to cloud / browser based services, and or invoke iBridge operations at a point in time.
+Add custom buttons to your project forms. Use these to access cloud / browser based services, and or invoke iBridge operations at a point in time.

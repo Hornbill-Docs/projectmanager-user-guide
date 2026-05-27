@@ -17,7 +17,7 @@ When finished and happy with the entities in the **Selected Project Relationship
 
 ## Related Entities List
 
-View all related entities to the project, including the name of the entity, the entity type, which application the entity belongs too, it's relationship type and who last modified the project relationship for the entity.
+View all related entities to the project, including the name of the entity, the entity type, which application the entity belongs to, its relationship type and who last modified the project relationship for the entity.
 
 * Search for specific entities using the **Search** field
 * Filter the displayed related entities by **Entity** and or **Relationship Type**
@@ -25,10 +25,10 @@ View all related entities to the project, including the name of the entity, the 
   
 ## Managing Related Entities
 
-Edit or delete a entity from the Project by selecting the entity name, from the list.
+Edit or delete an entity from the Project by selecting the entity name, from the list.
 
 * Change the relationship type and select **Update** to apply the change
-* Remove the entity and it's relationship to the project using the **Trash Can** icon
+* Remove the entity and its relationship to the project using the **Trash Can** icon
 
 ## Raise projects from a Service Manager workflow
 

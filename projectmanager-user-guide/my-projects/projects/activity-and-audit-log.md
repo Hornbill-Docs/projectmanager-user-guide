@@ -1,11 +1,11 @@
 # Project Activity and Audit Log
 
 ## Project Activity Streams
-The activity stream is a notification mechanism and conversation space for the project. It lists project relevant discussions for the project stakeholders, and allows them to collaborate on it's content. Project Stakeholders can use the   **\+ Follow** icon to receive updates from the activity stream on the project to their **News Feed** 
+The activity stream is a notification mechanism and conversation space for the project. It lists project relevant discussions for the project stakeholders, and allows them to collaborate on its content. Project Stakeholders can use the   **\+ Follow** icon to receive updates from the activity stream on the project to their **News Feed** 
 
 ### Post
 
-Write something to the project activity stream. Include images, share video's, use wiki markup and emojis and giphys to emphasis or add emotion to the post. 
+Write something to the project activity stream. Include images, share videos, use wiki markup and emojis and giphys to emphasis or add emotion to the post. 
 
 * Use Mentions to direct message another user / project stakeholders
 * More Actions
@@ -18,7 +18,7 @@ Write something to the project activity stream. Include images, share video's, u
 
 ### Comments
 
-Respond to a post by providing a comment, Include images, share video's, use wiki markup and emojis and giphys to emphasis or add emotion to the comment. 
+Respond to a post by providing a comment, Include images, share videos, use wiki markup and emojis and giphys to emphasis or add emotion to the comment. 
 
 * Use Mentions to direct message another user / project stakeholder
 
@@ -34,7 +34,7 @@ Order the content of the activity stream by:
 * Most recently updated
 
 ## Project Audit History
-Each action on a project is audited centrally, including it's initial creation, changes to project details, adding and removing resources, costs, risks, stakeholders, tasks and milestones. 
+Each action on a project is audited centrally, including its initial creation, changes to project details, adding and removing resources, costs, risks, stakeholders, tasks and milestones. 
 
 ### Audited Project Entities
 
@@ -55,12 +55,12 @@ The Following entities are audited:
 
 View who made a change, addition or removal to a project entity, what action was performed and when 
 
-* Drill down into each Audit record to see more detail about what values where changed from and too
+* Drill down into each Audit record to see more detail about what values were changed from and to
 * Use the Search option to find changes of a specific type, or by a specific project stakeholder
 
 ### Entity Specific Audit Histories
 
-As well the overall Project Audit history the following project entities also have their own audit histories on each entity record, these can be individually reviewed from the audit history on the relevant entity records:
+As well as the overall Project Audit history the following project entities also have their own audit histories on each entity record, these can be individually reviewed from the audit history on the relevant entity records:
 
 * Tasks
 * Risks

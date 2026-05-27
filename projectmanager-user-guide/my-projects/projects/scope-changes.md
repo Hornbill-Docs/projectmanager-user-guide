@@ -55,9 +55,9 @@ View all project scope changes in list view.
 * **Requested By**: The user that requested the project scope change
 
   
-* Click on the edit icon for each project scope change to review, or edit it's properties.
+* Click on the edit icon for each project scope change to review, or edit its properties.
 * Use the search option to find project scope changes by their name
 
 ### Administration
 
-When project scope changes are added, edited or removed this is audited and written to the audit trail tab of the overall project as well as against the audit tab on each scope change, where it can reviewed  
+When project scope changes are added, edited or removed this is audited and written to the audit trail tab of the overall project as well as against the audit tab on each scope change, where it can be reviewed  

@@ -8,7 +8,7 @@ Use the **+** icon to add a new project RAG tolerance
 * **RAG Tolerance**: Add an entity for the new project RAG tolerance
 * **RAG Status**: Select the status of the new project RAG tolerance
 * **Red Description**: Provide a description of what a red status means for the new project RAG tolerance
-* **Amber Description**: Provide a description of what a amber status means for the new project RAG tolerance
+* **Amber Description**: Provide a description of what an amber status means for the new project RAG tolerance
 * **Green Description**: Provide a description of what a green status means for the new project RAG tolerance
 
 Use the **Add** button to add the project RAG tolerance
@@ -29,12 +29,12 @@ View all project RAG tolerances in list view
 * **Last Modified Date**: The date the RAG tolerance was last modified
   
   
-* Click on a project RAG tolerance to review, or edit it's properties.
+* Click on a project RAG tolerance to review, or edit its properties.
 * Use the search option to find project RAG tolerances by their name
 
 ## Administration
 
-When project RAG tolerances are added, edited or removed this is audited and written to the audit trail tab of the overall project as well as against the audit tab on each RAG tolerance, where it can reviewed.
+When project RAG tolerances are added, edited or removed this is audited and written to the audit trail tab of the overall project as well as against the audit tab on each RAG tolerance, where it can be reviewed.
 
 Manage the available Project RAG Tolerances in the admin console and simple list
 

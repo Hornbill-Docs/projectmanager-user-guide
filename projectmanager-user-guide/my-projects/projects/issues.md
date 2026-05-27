@@ -12,7 +12,7 @@ Use the **+** icon to add a new issue to the project
 * **Actions**: Provide any actions for the issue
 * **Review Date**: Assign a date to review the issue
 * **Owned By**: Assign the issue an owner (from project members)
-* **Status**: Assign the issue a status to reflect it's current state.
+* **Status**: Assign the issue a status to reflect its current state.
 
 Use the **Add** button to add the project issue
 
@@ -28,9 +28,9 @@ Open an existing issue by clicking on the issue from the issue list view
 
 ## List View
 
-View project issue, by their name, impact, seriousness, status, review date and owner 
+View project issues, by their name, impact, seriousness, status, review date and owner 
 
-* Click on an issue to edit it's properties
+* Click on an issue to edit its properties
 * Search the project issues from the **Search** field
 
 * The search will look for a match with the issue name
@@ -38,7 +38,7 @@ View project issue, by their name, impact, seriousness, status, review date and 
   
 ## Administration
 
-When project issues are added, edited or removed this is audited and written to the audit trail tab of the overall project as well as against the audit tab on each Issue, where it can reviewed.
+When project issues are added, edited or removed this is audited and written to the audit trail tab of the overall project as well as against the audit tab on each Issue, where it can be reviewed.
 
 Manage the issues impacts and seriousness options via the following simple lists in the admin console.
 

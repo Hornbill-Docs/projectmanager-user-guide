@@ -48,23 +48,23 @@ Users with the **Form Designer** role are able to manage the project details for
 * Choose the control type for the new field
 * Click **Apply** and then **Apply Change** to add the new field
 
-* Once the new field is added click on it's **Cog** icon to edit it's properties, including visibility, mandatory and regex validation (if desired)
+* Once the new field is added click on its **Cog** icon to edit its properties, including visibility, mandatory and regex validation (if desired)
 
 #### Manage Fields
 
 A set of fields are displayed by default (defined above), however additional default fields maybe available to be added to a given section.
 
 * Click on **Design** this will expose all available default fields (visible or not on the form)
-* Click on the **Eye** icon next to a field to change it's visibility
+* Click on the **Eye** icon next to a field to change its visibility
 * Click on the **cog** icon next to a field to:
 
-* Change it's visibility
+* Change its visibility
 * Mark if it is a mandatory field
 * Mark if it is displayed even if empty
 * Mark if it is a field which can't be edited
 * Configure validation for field value input
 * Edit the display label for the field
 
-* Drag and Drop any field to change it's position in it's existing section on the form or move it into a different section on the form.
+* Drag and Drop any field to change its position in its existing section on the form or move it into a different section on the form.
 * Click **Apply Changes**
 

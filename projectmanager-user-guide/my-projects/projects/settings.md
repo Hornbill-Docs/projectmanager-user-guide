@@ -45,7 +45,7 @@ Choose which tabs are applicable and you want to display and use on your project
 * Risks
 * Assumptions
 * Issues
-* Dependancies
+* Dependencies
 
 * RAG Tolerances
 * Documents
@@ -73,7 +73,7 @@ In addition to the standard permissions on project features, additional more gra
 
 By default, all project roles will have full access and rights to all project aspects. The Project Manager can then through **Project Settings** in the side panel of a given project, add permissions to one or all project roles for their given project.
 
-* Select the role to apply the permissions too
+* Select the role to apply the permissions to
 * Select the permissions required for the role by selecting each tick box next to the required feature and permission.
 
 * Apply permissions to **All** project features, both vertically and horizontally by clicking the icon of the project feature and or the specific permission type

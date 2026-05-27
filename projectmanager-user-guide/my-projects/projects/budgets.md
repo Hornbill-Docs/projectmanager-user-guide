@@ -42,12 +42,12 @@ View all project budgets in list view.
 * **Last Modified Date**: The date the project budget was last modified
 
   
-* Click on a project budget to review, or edit it's properties.
+* Click on a project budget to review, or edit its properties.
 * Use the search option to find project budgets by their description
 
 ## Administration
 
-When project budgets are added, edited or removed this is audited and written to the audit trail tab of the overall project as well as against the audit tab on each Budget, where it can reviewed.
+When project budgets are added, edited or removed this is audited and written to the audit trail tab of the overall project as well as against the audit tab on each Budget, where it can be reviewed.
 
 Manage the available Project Budget Cost Categories, Costs and Types in the admin console and simple list
 

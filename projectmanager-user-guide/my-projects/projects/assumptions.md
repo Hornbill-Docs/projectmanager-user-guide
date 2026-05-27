@@ -10,8 +10,8 @@ Use the **+** icon to add a new assumption to the project
 * **Actions**: Provide any actions to the assumption
 * **Reasons**: Provide any supporting reasons for the assumption
 * **Review Date**: Assign a date to review the assumption
-* **Owned By**: Assign the assumption an owner (from project members
-* **Status**: Assign the assumption a status to reflect it's current state.
+* **Owned By**: Assign the assumption an owner (from project members)
+* **Status**: Assign the assumption a status to reflect its current state.
 
 Use the **Add** button to add the project assumption
 
@@ -28,7 +28,7 @@ Open an existing assumption by clicking on the assumption from the assumption li
 View project assumption, by their name, status, review date and owner 
 
 
-* Click on an assumption to edit it's properties
+* Click on an assumption to edit its properties
 * Search the project assumption from the **Search** field
 
 * The search will look for a match with the assumptions name
@@ -36,4 +36,4 @@ View project assumption, by their name, status, review date and owner
   
 ## Administration
 
-When project assumptions are added, edited or removed this is audited and written to the audit trail tab of the overall project as well as against the audit tab on each Assumption, where it can reviewed.
+When project assumptions are added, edited or removed this is audited and written to the audit trail tab of the overall project as well as against the audit tab on each Assumption, where it can be reviewed.

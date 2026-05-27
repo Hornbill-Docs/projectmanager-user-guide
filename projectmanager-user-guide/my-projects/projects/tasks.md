@@ -43,7 +43,7 @@ Use the **+** icon to add a new Project Task
 
 ### Updating & Completing Project Tasks
 
-* **Progress** \- Manually slide the progress indicate, so show in percentage terms how near to completion the task is
+* **Progress** \- Manually slide the progress indicator, to show in percentage terms how near to completion the task is
 * **Timeline** \- Post and or Comment on the task
 
 * **Follow** \- Select the **\+ Follow** button receive updates posted to the task timeline on your News Feed

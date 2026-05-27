@@ -33,7 +33,7 @@ Use the **+** Icon to add a new project milestone
 
 ### Edit Milestone
 
-Click on the edit icon for a Milestone to edit it's Percentage Progress, change it's Status or due date and if required delete it.
+Click on the edit icon for a Milestone to edit its Percentage Progress, change its Status or due date and if required delete it.
 
 ### Milestone List
 

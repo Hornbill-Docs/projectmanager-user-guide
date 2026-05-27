@@ -12,7 +12,7 @@ View and Analyze all project resource contributions
 
 ### Resource Analysis
 
-Drill down onto a resources name to analyze their project contributions by task and time**Task Analysis** 
+Drill down on a resource's name to analyze their project contributions by task and time**Task Analysis** 
 
 * View the Project Stakeholders current tasks, their due dates and their current % completion
 * View how many Active Tasks the Project Stakeholder has

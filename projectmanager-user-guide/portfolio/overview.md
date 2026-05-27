@@ -51,7 +51,7 @@ The date when the program was last updated
 
 * **Sub Status**
 
-Displays the sub status of the the entire program
+Displays the sub status of the entire program
 
 * **Custom Fields**
 
